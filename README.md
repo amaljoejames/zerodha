@@ -1,2 +1,1 @@
-# Zerodha
-Please try to implement the project on your own before proceeding to the lectures &amp; code.
+Please choose the "branch" corresponding to the topic to find the code up to that point.
