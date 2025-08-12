@@ -7,6 +7,7 @@ import { CookiesProvider } from 'react-cookie';  // <-- import this
 import Navbar from './landing_page/Navbar';
 import Footer from './landing_page/Footer';
 import SignUp from './landing_page/signup/SignUp';
+
 import Login from './landing_page/signup/Login';
 import AboutPage from './landing_page/about/AboutPage';
 import ProductPage from './landing_page/products/ProductPage';
